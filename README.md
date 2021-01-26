@@ -47,4 +47,7 @@ Open directory of app with cmd and run 'npm install' then 'npm start'
 Project is finished
 
 ## Contact
-adam.legowski23*@gmail.com
+adam.legowski238@gmail.com
+
+
+## Project made on University of Gdańsk
