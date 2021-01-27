@@ -21,9 +21,9 @@ Open directory of app with cmd and run 'npm install' then 'npm start'
 ## Code Examples
 
 
-`const CommentDetail = (props) =>{
-    console.log(props);
-    return (
+`const CommentDetail = (props) =>{<br />
+    console.log(props);<br />
+    return (<br />
       <div className="comment">
         <a className="avatar" alt="avatar" href="/">
           <img src={faker.image.avatar()} alt="/" />
